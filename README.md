@@ -133,3 +133,4 @@ Neste exemplo, apenas as primeiras 1000 linhas serão processadas.
 
 Ao executar o script, você verá a barra de progresso (se pv estiver instalado corretamente) e, eventualmente, a saída esperada no terminal ou em um arquivo de saída, se você decidir modificar o script para direcionar a saída.
 
+### Fazendo novos testes 
