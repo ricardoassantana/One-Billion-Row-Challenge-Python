@@ -135,4 +135,4 @@ Ao executar o script, você verá a barra de progresso (se pv estiver instalado 
 
 ### Fazendo novos testes 
 
-Testar o código rodando via parquet, substituindo o arquivo csv
+Testar o código rodando via parquet, substituindo o arquivo csv!
